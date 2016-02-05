@@ -1,0 +1,56 @@
+*{
+	font-family: 'Poiret One', cursive;
+
+}
+p{
+	font-weight: 	bold;
+}
+h1,h2{
+	font-family: 	'Josefin Slab';
+	font-weight: 	bold;	
+}
+li{
+	list-style: none;
+}
+nav ul li{
+	display: 	inline;	
+	padding: 	1%;
+	margin: 	1.5% auto;	
+	font-size: 	1.5em;
+	color: 	#000;
+}
+.portada{
+	background: 	url("../img/24.jpg") center no-repeat ;
+	height: 480px;
+	background-size: 100%;
+}
+
+#quienes-somos{
+	font-weight: 	bold;
+	font-size: 	1em;	
+}
+
+/*imagenes*/
+.img-1{
+	background: 	url('../img/3.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-2{
+	background: 	url('../img/4.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-3{
+	background: 	url('../img/5.jpg') bottom;
+	height: 	250px;
+	background-size: 	100%;
+}
+/*Utilities*/
+
+.pd-2{
+	padding: 	2%;
+}
+.pd-5{
+	padding: 	5% !important;
+}
