@@ -36,6 +36,9 @@ nav ul li{
 	height: 	250px;
 	background-size: 	100%;
 }
+.img-1:hover{
+	background-color: rgb(0.0.0.100);
+}
 .img-2{
 	background: 	url('../img/4.jpg') center;
 	height: 	250px;
@@ -46,6 +49,68 @@ nav ul li{
 	height: 	250px;
 	background-size: 	100%;
 }
+
+.img-4{
+	background: 	url('../img/6.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-5{
+	background: 	url('../img/7.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-6{
+	background: 	url('../img/8.jpg') bottom;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-7{
+	background: 	url('../img/9.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-8{
+	background: 	url('../img/10.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-9{
+	background: 	url('../img/11.jpg');
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-10{
+	background: 	url('../img/12.jpg') ;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-11{
+	background: 	url('../img/13.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-12{
+	background: 	url('../img/14.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-13{
+	background: 	url('../img/15.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-14{
+	background: 	url('../img/16.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+.img-15{
+	background: 	url('../img/17.jpg') center;
+	height: 	250px;
+	background-size: 	100%;
+}
+
 /*Utilities*/
 
 .pd-2{
@@ -53,4 +118,10 @@ nav ul li{
 }
 .pd-5{
 	padding: 	5% !important;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.m-1{
+	margin: 1%;
 }
